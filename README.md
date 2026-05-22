@@ -12,7 +12,7 @@ I’m focused on learning programming, building projects, and becoming a backend
 
 <p align="left">
 
-<a href="https://github.com/CodeGuiDev">
+<a href="https://github.com/Guilherme_idcode">
 <img src="https://img.shields.io/badge/GitHub-CODEGUIDEV-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -67,9 +67,9 @@ I’m focused on learning programming, building projects, and becoming a backend
 
 <p align="left">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeGuiDev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilherme_idcodev&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGuiDev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme_idcodev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
