@@ -60,5 +60,8 @@
 ---
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749903-c5c790f2-6826-4c45-8b7e-ff6d6d65f0cf.gif" width="700px">
+</p>
+<p align="center">
   <em>Keep coding. One project at a time.</em> 💚
 </p>
