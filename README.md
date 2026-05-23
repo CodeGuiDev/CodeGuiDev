@@ -1,59 +1,64 @@
-# Hi 👋, I'm Guilherme
+<h1 align="center">Hello, I'm Guilherme 👋</h1>
 
-🎯 Backend Developer Student  
-🐍 Learning Python  
-🇧🇷 Brazil | 17 years old
+<p align="center">
+  <em>Backend Developer Student • Python Learner • Future Software Engineer</em>
+</p>
 
----
-
-## 🌐 Connect with me
-
-<p align="left">
-
-<a href="https://github.com/CodeGuiDev">
-<img src="https://img.shields.io/badge/GitHub-CodeGuiDev-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/guilheerme.s.c">
-<img src="https://img.shields.io/badge/Instagram-@guilheerme.s.c-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+<p align="center">
+  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
 </p>
 
 ---
 
-## 📚 Studying
+<p align="center">
+  Passionate about technology, programming, and learning new things every day.  
+  Here you'll find my projects, studies, experiments, and my journey becoming a Backend Developer 🚀
+</p>
 
-- Python
-- Backend Development
-- APIs
-- Databases
-- Git & GitHub
+<p align="center">
+  <a href="https://github.com/CodeGuiDev">
+    <img src="https://img.shields.io/badge/-GitHub-00AB33?style=flat-square&logo=github&logoColor=white">
+  </a>
+  
+  <a href="https://www.instagram.com/guilheerme.s.c">
+    <img src="https://img.shields.io/badge/-Instagram-00AB33?style=flat-square&logo=instagram&logoColor=white">
+  </a>
 
----
-
-## 🛠️ Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CodeGuiDev&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGuiDev&layout=compact&theme=tokyonight"/>
-
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-⭐ Always learning and evolving
+### 🧠 About Me
+
+- 🎓 High school student (3rd year)
+- 💻 Studying Python and Backend Development
+- 🚀 Building projects to improve my programming skills
+- 📚 Learning every day and sharing my evolution on GitHub
+- 🎯 Goal: Become a professional Software Developer
+
+---
+
+### ⚡ Technologies I'm Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
+
+---
+
+### 📌 Current Focus
+
+- 🐍 Python
+- ⚙️ Backend Development
+- 🧩 Logic Programming
+- 📂 Small Projects for Practice
+- 🌐 Building my Portfolio
+
+---
+
+<p align="center">
+  <em>Keep coding. One project at a time.</em> 💚
+</p>
